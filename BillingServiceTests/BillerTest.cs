@@ -115,7 +115,7 @@ When purchased items include any food apply a service charge of 10% to the total
         }
 
         [TestMethod]
-        public void ShouldRoundTo2DecimalsAllCharges()
+        public void ShouldRoundTotlBillTo2DecimalPlaces()
         {
             var quantity = 2;
            var serviceChargePercentage = 10.7m;
