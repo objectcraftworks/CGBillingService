@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace BillingServiceTests
 {
     [TestClass]
-    public class BillingService
+    public class BillerTest
     {
         /*
          * Billing Service
